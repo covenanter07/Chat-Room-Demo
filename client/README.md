@@ -8,7 +8,7 @@ The Chat-Room is a React.js frontend application for a chat messaging system. It
 - **Multimedia Uploads** : Supports uploading images, videos, and PDFs.
 - **Voice and Recording** : Supports real-time voice messages and recording functionality.
 - **Message Management** : Edit, delete messages, and search messages using keywords.
-- **Voice Call** : One-on-one call reception using WebRTC.
+- **Voice Call** : One-on-one call reception.
 
 ## Chat-Room Guide
 [Chat Room Guide](https://github.com/covenanter07/chat-mesg/blob/main/client/chat_web_guide%20(720p%20with%2021.58fps).mp4): **Video Guide**
