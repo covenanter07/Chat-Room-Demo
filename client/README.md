@@ -76,6 +76,7 @@ https://chat-municate-sight.onrender.com
 * React Router for navigation
 * Axios for API requests
 * Socket.io for real-time communication
+* WebRTC for one-on-one call reception.
 * Responsive design with Tailwind CSS
 
 ## Dependencies
